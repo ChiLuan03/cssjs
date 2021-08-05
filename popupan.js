@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://bit.ly/2r37SFT';
+	var url_popup = 'https://giakevuongthang.com/gia-ke-ban-hang-tap-hoa/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
